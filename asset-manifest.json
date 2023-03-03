@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://devoprohan.github.io/csb-xxelho/static/js/main.af4cabd6.chunk.js",
+    "main.js.map": "https://devoprohan.github.io/csb-xxelho/static/js/main.af4cabd6.chunk.js.map",
+    "runtime-main.js": "https://devoprohan.github.io/csb-xxelho/static/js/runtime-main.b909ddec.js",
+    "runtime-main.js.map": "https://devoprohan.github.io/csb-xxelho/static/js/runtime-main.b909ddec.js.map",
+    "static/js/2.b12f8f99.chunk.js": "https://devoprohan.github.io/csb-xxelho/static/js/2.b12f8f99.chunk.js",
+    "static/js/2.b12f8f99.chunk.js.map": "https://devoprohan.github.io/csb-xxelho/static/js/2.b12f8f99.chunk.js.map",
+    "index.html": "https://devoprohan.github.io/csb-xxelho/index.html",
+    "static/js/2.b12f8f99.chunk.js.LICENSE.txt": "https://devoprohan.github.io/csb-xxelho/static/js/2.b12f8f99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b909ddec.js",
+    "static/js/2.b12f8f99.chunk.js",
+    "static/js/main.af4cabd6.chunk.js"
+  ]
+}
